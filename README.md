@@ -1,7 +1,7 @@
 sentence
 ========
 
-You need to write down a ruby script which calculates the next upcoming words and then just create a random sentence out of it.
+    You need to write down a ruby script which calculates the next upcoming words and then just create a random sentence out of it.
 
 
 ### Example:
