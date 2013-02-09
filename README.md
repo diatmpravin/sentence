@@ -4,7 +4,7 @@ sentence
 You need to write down a ruby script which calculates the next upcoming words and then just create a random sentence out of it.
 
 
-Example:
+### Example:
 
 We’re dedicated to improving people’s health and well-being by providing our users personalized health information and free online and mobile answers from thousands of the best physicians in the U.S. Our goal is to help people better understand health, make more informed health decisions and find the very best doctors.
 
