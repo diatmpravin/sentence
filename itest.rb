@@ -1,7 +1,10 @@
 class Unknown
   def initialize(text)
     # Initalize hash    
-    @words = Hash.new
+      @words = Hash.new # two space for indentation
+      
+    #Don't use ; to separate statements
+    puts 'foo'; puts 'bar' # two expressions on the same line  
 
     # Spliting text and collect into Array. 
     wordlist = text.split
